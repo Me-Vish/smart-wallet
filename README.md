@@ -1,13 +1,16 @@
-# Smart Wallet – Transaction Tracker 💳
+# Smart Wallet – Transaction Tracker 
 
 A modern transaction tracker dashboard built using **HTML, CSS, and JavaScript**.  
-Users can add **credit/debit transactions**, track balance, filter/search data, and export transactions.
+Users can add **credit/debit transactions**, track balance, filter/search records, and export transactions.
+
+##  Live Demo
+https://smart-wallet-tracker.netlify.app/
 
 ---
 
 ##  Features
 - 1. Add Credit / Debit transactions
-- 2. Auto Balance calculation (Credit - Debit)
+- 2. Auto balance calculation (Credit - Debit)
 - 3. Transaction history table
 - 4. Search by Merchant / Category / Mode
 - 5. Filter by Credit / Debit / Suspicious
@@ -26,15 +29,9 @@ Users can add **credit/debit transactions**, track balance, filter/search data, 
 
 ---
 
-##  How to Run (Local)
+##  How to Run Locally
 1. Download or clone this repository
 2. Open `index.html` in your browser
-
----
-
-##  Live Demo
-(Add your Netlify link here after hosting)
-Example: `https://smart-wallet-tracker.netlify.app/`
 
 ---
 
@@ -46,5 +43,5 @@ This project simulates a wallet-style transaction tracker that can be used to:
 
 ---
 
-##  Author
+## 👩‍💻 Author
 **Vishali**
