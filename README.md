@@ -34,7 +34,7 @@ Users can add **credit/debit transactions**, track balance, filter/search data, 
 
 ##  Live Demo
 (Add your Netlify link here after hosting)
-Example: `https://your-site-name.netlify.app`
+Example: `https://smart-wallet-tracker.netlify.app/`
 
 ---
 
